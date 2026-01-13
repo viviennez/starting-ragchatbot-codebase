@@ -28,6 +28,9 @@ Create a `.env` file in the root directory:
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
+### Git commit instruction
+Never put Claude as an author.
+
 ## Architecture Overview
 
 ### Core Design: Tool-Augmented RAG System
